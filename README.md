@@ -6,18 +6,19 @@ Tic-Tac-Toe Game in python3 Tkinter
 <br>
 
 <p align="center">Tic-Tac-Toe<br>
-  <img src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/e50df2bf79108a90693422f312e047a10a4222d0/images/Tic%20Tac%20Toe.png" width="300" height="450"><p/>
+  <img src="https://github.com/prudvi-m/tkinter-tic-tac/blob/main/images/Tic%20Tac%20Toe.png" 
+  width="300" height="450"><p/>
 
 ## Demo:
 
 
 <p align="center" width="100%">
-    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winning.png">
-    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player2_winning.png">
-    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/match_draw.png">
+    <img width="30%" height="450" src="https://github.com/prudvi-m/tkinter-tic-tac/blob/main/images/player1_winning.png">
+    <img width="30%" height="450" src="https://github.com/prudvi-m/tkinter-tic-tac/blob/main/images/player2_winning.png">
+    <img width="30%" height="450" src="https://github.com/prudvi-m/tkinter-tic-tac/blob/main/images/match_draw.png">
 </p>
 <p align="center" width="100%">
-    <img width="30%" height="200" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winningmsg.png">
-    <img width="30%" height="200" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player2_winningmsg.png">
-    <img width="30%" height="200" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/match_drawmsg.png">
+    <img width="30%" height="200" src="https://github.com/prudvi-m/tkinter-tic-tac/blob/main/images/player1_winningmsg.png">
+    <img width="30%" height="200" src="https://github.com/prudvi-m/tkinter-tic-tac/blob/main/images/player2_winningmsg.png">
+    <img width="30%" height="200" src="https://github.com/prudvi-m/tkinter-tic-tac/blob/main/images/match_drawmsg.png">
 </p>
